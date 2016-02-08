@@ -1,0 +1,9 @@
+target/
+.classpath
+.project
+.settings/
+.codepro/
+nbactions.xml
+
+/nbactions-local.xml
+/nb-configuration.xml
